@@ -14,3 +14,6 @@ docker run --rm -it -p 8501:8501 weather
 ```
 
 ![weather](weather.png)
+
+Deploy to Fargate:
+http://54.227.113.69:8501/
